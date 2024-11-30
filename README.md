@@ -1,1 +1,1 @@
-just a cru api using sql 
+just a crud api using sql 
